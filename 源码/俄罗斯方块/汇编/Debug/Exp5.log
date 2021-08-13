@@ -1,0 +1,4 @@
+﻿  Assembling src.asm...
+src.asm(115): warning A6004: procedure argument or local not referenced : j
+src.asm(152): warning A6004: procedure argument or local not referenced : number
+  Exp5.vcxproj -> D:\AA-大三下\汇编\作业\vs\Exp5\Debug\Exp5.exe
